@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_W1WoURY7EeWzq6S3blhZXw" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_W1WoUhY7EeWzq6S3blhZXw" bindingContexts="_W1WoVBY7EeWzq6S3blhZXw">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.wst.jsdt.ui.CompilationUnitEditor&quot; name=&quot;controller.js&quot; tooltip=&quot;C:\Users\Hayden\Downloads\WeatherTrack\static\controller.js&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Hayden/Downloads/WeatherTrack/static/controller.js&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;server.py&quot; tooltip=&quot;C:\Users\Hayden\Downloads\WeatherTrack\server.py&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Hayden/Downloads/WeatherTrack/server.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;gweather.py&quot; tooltip=&quot;C:\Users\Hayden\Downloads\WeatherTrack\gweather.py&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Hayden/Downloads/WeatherTrack/gweather.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;server.py&quot; tooltip=&quot;C:\Users\Hayden\Desktop\weather-watch\server.py&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Hayden/Desktop/weather-watch/server.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;Server.py&quot; tooltip=&quot;WeatherWatch/weatherwatch/main/Server.py&quot;>&#xD;&#xA;&lt;persistable path=&quot;/WeatherWatch/weatherwatch/main/Server.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;server.py&quot; tooltip=&quot;C:\1-dev\1-proj\bluemix\WeatherTrack\server.py&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/1-dev/1-proj/bluemix/WeatherTrack/server.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jst.pagedesigner.PageDesignerEditor&quot; name=&quot;index.html&quot; tooltip=&quot;C:\1-dev\1-proj\bluemix\WeatherTrack\static\index.html&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/1-dev/1-proj/bluemix/WeatherTrack/static/index.html&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.wst.jsdt.ui.CompilationUnitEditor&quot; name=&quot;controller.js&quot; tooltip=&quot;C:\1-dev\1-proj\bluemix\WeatherTrack\static\controller.js&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/1-dev/1-proj/bluemix/WeatherTrack/static/controller.js&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;__init__.py&quot; tooltip=&quot;WeatherWatch/weatherwatch/main/__init__.py&quot;>&#xD;&#xA;&lt;persistable path=&quot;/WeatherWatch/weatherwatch/main/__init__.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.pagedesigner.PageDesignerEditor&quot; name=&quot;weatherwatch.html&quot; tooltip=&quot;WeatherWatch/weatherwatch/main/templates/weatherwatch.html&quot;>&#xD;&#xA;&lt;persistable path=&quot;/WeatherWatch/weatherwatch/main/templates/weatherwatch.html&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;Server.py&quot; tooltip=&quot;WeatherWatch/weatherwatch/main/Server.py&quot;>&#xD;&#xA;&lt;persistable path=&quot;/WeatherWatch/weatherwatch/main/Server.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.jsdt.ui.CompilationUnitEditor&quot; name=&quot;controller.js&quot; tooltip=&quot;WeatherWatch/weatherwatch/main/static/controller.js&quot;>&#xD;&#xA;&lt;persistable path=&quot;/WeatherWatch/weatherwatch/main/static/controller.js&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.wst.jsdt.ui.CompilationUnitEditor&quot; name=&quot;controller.js&quot; tooltip=&quot;C:\Users\Hayden\Downloads\WeatherTrack\static\controller.js&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Hayden/Downloads/WeatherTrack/static/controller.js&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;server.py&quot; tooltip=&quot;C:\Users\Hayden\Downloads\WeatherTrack\server.py&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Hayden/Downloads/WeatherTrack/server.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;gweather.py&quot; tooltip=&quot;C:\Users\Hayden\Downloads\WeatherTrack\gweather.py&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Hayden/Downloads/WeatherTrack/gweather.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;server.py&quot; tooltip=&quot;C:\Users\Hayden\Desktop\weather-watch\server.py&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Hayden/Desktop/weather-watch/server.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;server.py&quot; tooltip=&quot;C:\1-dev\1-proj\bluemix\WeatherTrack\server.py&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/1-dev/1-proj/bluemix/WeatherTrack/server.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jst.pagedesigner.PageDesignerEditor&quot; name=&quot;index.html&quot; tooltip=&quot;C:\1-dev\1-proj\bluemix\WeatherTrack\static\index.html&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/1-dev/1-proj/bluemix/WeatherTrack/static/index.html&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.wst.jsdt.ui.CompilationUnitEditor&quot; name=&quot;controller.js&quot; tooltip=&quot;C:\1-dev\1-proj\bluemix\WeatherTrack\static\controller.js&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/1-dev/1-proj/bluemix/WeatherTrack/static/controller.js&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;__init__.py&quot; tooltip=&quot;WeatherWatch/weatherwatch/main/__init__.py&quot;>&#xD;&#xA;&lt;persistable path=&quot;/WeatherWatch/weatherwatch/main/__init__.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_W1WoUhY7EeWzq6S3blhZXw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_XF5lwhY7EeWzq6S3blhZXw" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="683" height="728">
@@ -160,7 +160,7 @@
             </children>
             <children xsi:type="basic:PartSashContainer" xmi:id="_7eS7JBY7EeWtE4xgwyJAwA" containerData="7400" selectedElement="_7eS7JRY7EeWtE4xgwyJAwA">
               <children xsi:type="advanced:Placeholder" xmi:id="_7eS7JRY7EeWtE4xgwyJAwA" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_XXkkkBY7EeWzq6S3blhZXw"/>
-              <children xsi:type="basic:PartStack" xmi:id="_7eS7JhY7EeWtE4xgwyJAwA" elementId="bottom" containerData="2500" selectedElement="_7eS7KhY7EeWtE4xgwyJAwA">
+              <children xsi:type="basic:PartStack" xmi:id="_7eS7JhY7EeWtE4xgwyJAwA" elementId="bottom" containerData="2500" selectedElement="_7eS7KBY7EeWtE4xgwyJAwA">
                 <tags>newtablook</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_7eS7JxY7EeWtE4xgwyJAwA" elementId="org.eclipse.search.ui.views.SearchView" toBeRendered="false" ref="_XbQxxBY7EeWzq6S3blhZXw"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_7eS7KBY7EeWtE4xgwyJAwA" elementId="org.eclipse.ui.console.ConsoleView" ref="_XbQxwRY7EeWzq6S3blhZXw"/>
@@ -195,41 +195,29 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_XXkkkBY7EeWzq6S3blhZXw" elementId="org.eclipse.ui.editorss" selectedElement="_XXkkkRY7EeWzq6S3blhZXw">
-      <children xsi:type="basic:PartStack" xmi:id="_XXkkkRY7EeWzq6S3blhZXw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_lZ9DIBacEeW_2Za6yeor-Q">
+      <children xsi:type="basic:PartStack" xmi:id="_XXkkkRY7EeWzq6S3blhZXw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_R4c3sBdzEeWMiKKlAnGzzQ">
         <tags>newtablook</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
-        <children xsi:type="basic:Part" xmi:id="_lZ9DIBacEeW_2Za6yeor-Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="server (WeatherTrack)" iconURI="platform:/plugin/org.python.pydev/icons/python_file.gif" tooltip="C:\Users\Hayden\Downloads\WeatherTrack\server.py" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Hayden/Downloads/WeatherTrack/server.py&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;906&quot; selectionTopPixel=&quot;257&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_OUN78BdzEeWMiKKlAnGzzQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="controller.js" iconURI="platform:/plugin/org.eclipse.wst.jsdt.ui/icons/full/obj16/jcu_obj.gif" tooltip="WeatherWatch/weatherwatch/main/static/controller.js" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.jsdt.ui.CompilationUnitEditor&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/WeatherWatch/weatherwatch/main/static/controller.js&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;83&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.wst.jsdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_R4c3sBdzEeWMiKKlAnGzzQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Server" iconURI="platform:/plugin/org.python.pydev/icons/python_file.gif" tooltip="WeatherWatch/weatherwatch/main/Server.py" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/WeatherWatch/weatherwatch/main/Server.py&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;379&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.python.pydev.editor.PythonEditor</tags>
           <tags>removeOnHide</tags>
           <tags>active</tags>
           <tags>activeOnClose</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_WxnrUBadEeW_2Za6yeor-Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Server" iconURI="platform:/plugin/org.python.pydev/icons/python_file.gif" tooltip="WeatherWatch/weatherwatch/main/Server.py" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/WeatherWatch/weatherwatch/main/Server.py&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;132&quot; selectionOffset=&quot;54&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_VfeBsBdzEeWMiKKlAnGzzQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="weatherwatch.html" iconURI="platform:/plugin/org.eclipse.jst.pagedesigner/icons/PD_Plugin.gif" tooltip="WeatherWatch/weatherwatch/main/templates/weatherwatch.html" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jst.pagedesigner.PageDesignerEditor&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/WeatherWatch/weatherwatch/main/templates/weatherwatch.html&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_dYNDIBawEeW_2Za6yeor-Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="server (weather-watch)" iconURI="platform:/plugin/org.python.pydev/icons/python_file.gif" tooltip="C:\Users\Hayden\Desktop\weather-watch\server.py" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Hayden/Desktop/weather-watch/server.py&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;211&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_ifIUIBbFEeW5lKvldRQuLA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="gweather" iconURI="platform:/plugin/org.python.pydev/icons/python_file.gif" tooltip="C:\Users\Hayden\Downloads\WeatherTrack\gweather.py" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Hayden/Downloads/WeatherTrack/gweather.py&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;373&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_3elpQBbIEeW5lKvldRQuLA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="controller.js" iconURI="platform:/plugin/org.eclipse.wst.jsdt.ui/icons/full/obj16/jcu_obj.gif" tooltip="C:\Users\Hayden\Downloads\WeatherTrack\static\controller.js" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.jsdt.ui.CompilationUnitEditor&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Hayden/Downloads/WeatherTrack/static/controller.js&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;611&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.wst.jsdt.ui.CompilationUnitEditor</tags>
+          <tags>org.eclipse.jst.pagedesigner.PageDesignerEditor</tags>
           <tags>removeOnHide</tags>
         </children>
       </children>
@@ -345,7 +333,7 @@
       <tags>categoryTag:Web Services</tags>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_7eOCoBY7EeWtE4xgwyJAwA" elementId="org.python.pydev.navigator.view" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="PyDev Package Explorer" iconURI="platform:/plugin/org.python.pydev/icons/pydev_package_explorer.gif" tooltip="Workspace" closeable="true">
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;C:/1-dev/1-proj/1-ver-con/git-hub/WeatherWatch/WeatherWatch&quot;/>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;C:/1-dev/1-proj/1-ver-con/git-hub/WeatherWatch/WeatherWatch/weatherwatch&quot;/>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;C:/1-dev/1-proj/1-ver-con/git-hub/WeatherWatch/WeatherWatch/weatherwatch/main&quot;/>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;C:/1-dev/1-proj/1-ver-con/git-hub/WeatherWatch/WeatherWatch/weatherwatch/main/static&quot;/>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;C:/1-dev/1-proj/1-ver-con/git-hub/WeatherWatch/WeatherWatch/weatherwatch/main/templates&quot;/>&#xD;&#xA;&lt;selected IMemento.internal.id=&quot;C:/1-dev/1-proj/1-ver-con/git-hub/WeatherWatch/WeatherWatch/weatherwatch/main/static&quot;/>&#xD;&#xA;&lt;selected IMemento.internal.id=&quot;C:/1-dev/1-proj/1-ver-con/git-hub/WeatherWatch/WeatherWatch/weatherwatch/main/templates&quot;/>&#xD;&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;C:/1-dev/1-proj/1-ver-con/git-hub/WeatherWatch/WeatherWatch&quot;/>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;C:/1-dev/1-proj/1-ver-con/git-hub/WeatherWatch/WeatherWatch/weatherwatch&quot;/>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;C:/1-dev/1-proj/1-ver-con/git-hub/WeatherWatch/WeatherWatch/weatherwatch/main&quot;/>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;C:/1-dev/1-proj/1-ver-con/git-hub/WeatherWatch/WeatherWatch/weatherwatch/main/static&quot;/>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;C:/1-dev/1-proj/1-ver-con/git-hub/WeatherWatch/WeatherWatch/weatherwatch/main/templates&quot;/>&#xD;&#xA;&lt;selected IMemento.internal.id=&quot;C:/1-dev/1-proj/1-ver-con/git-hub/WeatherWatch/WeatherWatch/weatherwatch/main/templates/weatherwatch.html&quot;/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:PyDev</tags>
       <menus xmi:id="_7ehkoBY7EeWtE4xgwyJAwA" elementId="org.python.pydev.navigator.view">
@@ -361,19 +349,19 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XPnicBY7EeWzq6S3blhZXw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u3rz8Ba_EeW5lKvldRQuLA" elementId="new.group"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u3rz8Ra_EeW5lKvldRQuLA" elementId="newWizardDropDown"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u3rz8ha_EeW5lKvldRQuLA" elementId="new.ext" visible="false"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u3rz8xa_EeW5lKvldRQuLA" elementId="save.group" visible="false"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u3rz9Ba_EeW5lKvldRQuLA" elementId="save"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u3rz9Ra_EeW5lKvldRQuLA" elementId="saveAll"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u3rz9ha_EeW5lKvldRQuLA" elementId="save.ext" visible="false"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_u3sbABa_EeW5lKvldRQuLA" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.gif" tooltip="Print" command="_W3DRoRY7EeWzq6S3blhZXw"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u3veUBa_EeW5lKvldRQuLA" elementId="print.ext" visible="false"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u3veURa_EeW5lKvldRQuLA" elementId="build.group"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u3veUha_EeW5lKvldRQuLA" elementId="build.ext" visible="false"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u3veUxa_EeW5lKvldRQuLA" elementId="additions"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u5TkkBa_EeW5lKvldRQuLA" elementId="org.eclipse.wb.core.wizards.actions.NewDesignerTypeDropDownAction"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LniTQBdzEeWMiKKlAnGzzQ" elementId="new.group"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LniTQRdzEeWMiKKlAnGzzQ" elementId="newWizardDropDown"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LniTQhdzEeWMiKKlAnGzzQ" elementId="new.ext" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LniTQxdzEeWMiKKlAnGzzQ" elementId="save.group" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LniTRBdzEeWMiKKlAnGzzQ" elementId="save"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LniTRRdzEeWMiKKlAnGzzQ" elementId="saveAll"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LniTRhdzEeWMiKKlAnGzzQ" elementId="save.ext" visible="false"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Lni6UBdzEeWMiKKlAnGzzQ" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.gif" tooltip="Print" command="_W3DRoRY7EeWzq6S3blhZXw"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LnlWkBdzEeWMiKKlAnGzzQ" elementId="print.ext" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LnlWkRdzEeWMiKKlAnGzzQ" elementId="build.group"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LnlWkhdzEeWMiKKlAnGzzQ" elementId="build.ext" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LnlWkxdzEeWMiKKlAnGzzQ" elementId="additions"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LplhsBdzEeWMiKKlAnGzzQ" elementId="org.eclipse.wb.core.wizards.actions.NewDesignerTypeDropDownAction"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XPnicRY7EeWzq6S3blhZXw" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -381,8 +369,8 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_7flUkBY7EeWtE4xgwyJAwA" elementId="com.python.pydev.navigate.actionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u5ULoBa_EeW5lKvldRQuLA" elementId="pyNavigateGroup"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u5ULoRa_EeW5lKvldRQuLA" elementId="com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LplhsRdzEeWMiKKlAnGzzQ" elementId="pyNavigateGroup"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LplhshdzEeWMiKKlAnGzzQ" elementId="com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_nwmogBY7EeWtE4xgwyJAwA" elementId="org.eclipse.debug.ui.breakpointActionSet" visible="false">
         <tags>Draggable</tags>
@@ -410,10 +398,10 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XbvS4BY7EeWzq6S3blhZXw" elementId="org.eclipse.debug.ui.launchActionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u5ULoha_EeW5lKvldRQuLA" elementId="debug"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u5ULoxa_EeW5lKvldRQuLA" elementId="org.eclipse.debug.internal.ui.actions.DebugDropDownAction"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u5ULpBa_EeW5lKvldRQuLA" elementId="org.eclipse.debug.internal.ui.actions.RunDropDownAction"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u5ULpRa_EeW5lKvldRQuLA" elementId="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LplhsxdzEeWMiKKlAnGzzQ" elementId="debug"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LplhtBdzEeWMiKKlAnGzzQ" elementId="org.eclipse.debug.internal.ui.actions.DebugDropDownAction"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LplhtRdzEeWMiKKlAnGzzQ" elementId="org.eclipse.debug.internal.ui.actions.RunDropDownAction"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LplhthdzEeWMiKKlAnGzzQ" elementId="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XclncBY7EeWzq6S3blhZXw" elementId="org.eclipse.jst.j2ee.J2eeMainActionSet" visible="false">
         <tags>Draggable</tags>
@@ -423,9 +411,9 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XcObEBY7EeWzq6S3blhZXw" elementId="org.eclipse.search.searchActionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u5ULpha_EeW5lKvldRQuLA" elementId="Search"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u5ULpxa_EeW5lKvldRQuLA" elementId="org.eclipse.mylyn.tasks.ui.openTask"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u5ULqBa_EeW5lKvldRQuLA" elementId="org.eclipse.search.OpenSearchDialogPage"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LplhtxdzEeWMiKKlAnGzzQ" elementId="Search"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LplhuBdzEeWMiKKlAnGzzQ" elementId="org.eclipse.mylyn.tasks.ui.openTask"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LplhuRdzEeWMiKKlAnGzzQ" elementId="org.eclipse.search.OpenSearchDialogPage"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Xce5wBY7EeWzq6S3blhZXw" elementId="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" visible="false">
         <tags>Draggable</tags>
@@ -443,15 +431,15 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XPoJgBY7EeWzq6S3blhZXw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u3veVBa_EeW5lKvldRQuLA" elementId="history.group"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u3veVRa_EeW5lKvldRQuLA" elementId="group.application" visible="false"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u3veVha_EeW5lKvldRQuLA" elementId="backardHistory"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u3veVxa_EeW5lKvldRQuLA" elementId="forwardHistory"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u3veWBa_EeW5lKvldRQuLA" elementId="pin.group"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_u3wFYBa_EeW5lKvldRQuLA" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.gif" tooltip="Pin Editor" enabled="false" command="_W3AOKxY7EeWzq6S3blhZXw"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u5ULqRa_EeW5lKvldRQuLA" elementId="org.eclipse.ui.edit.text.gotoNextAnnotation"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u5ULqha_EeW5lKvldRQuLA" elementId="org.eclipse.ui.edit.text.gotoPreviousAnnotation"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u5ULqxa_EeW5lKvldRQuLA" elementId="org.eclipse.ui.edit.text.gotoLastEditPosition"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Lnl9oBdzEeWMiKKlAnGzzQ" elementId="history.group"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Lnl9oRdzEeWMiKKlAnGzzQ" elementId="group.application" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Lnl9ohdzEeWMiKKlAnGzzQ" elementId="backardHistory"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Lnl9oxdzEeWMiKKlAnGzzQ" elementId="forwardHistory"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Lnl9pBdzEeWMiKKlAnGzzQ" elementId="pin.group"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Lnl9pRdzEeWMiKKlAnGzzQ" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.gif" tooltip="Pin Editor" enabled="false" command="_W3AOKxY7EeWzq6S3blhZXw"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LplhuhdzEeWMiKKlAnGzzQ" elementId="org.eclipse.ui.edit.text.gotoNextAnnotation"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LplhuxdzEeWMiKKlAnGzzQ" elementId="org.eclipse.ui.edit.text.gotoPreviousAnnotation"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LpmIwBdzEeWMiKKlAnGzzQ" elementId="org.eclipse.ui.edit.text.gotoLastEditPosition"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XPoJgRY7EeWzq6S3blhZXw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -463,8 +451,8 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XPoJhRY7EeWzq6S3blhZXw" elementId="org.eclipse.ui.workbench.help" visible="false">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u3wFYRa_EeW5lKvldRQuLA" elementId="group.help"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_u3wFYha_EeW5lKvldRQuLA" elementId="group.application" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LnmksBdzEeWMiKKlAnGzzQ" elementId="group.help"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_LnmksRdzEeWMiKKlAnGzzQ" elementId="group.application" visible="false"/>
       </children>
       <children xsi:type="menu:ToolControl" xmi:id="_XUmJEBY7EeWzq6S3blhZXw" elementId="PerspectiveSpacer" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
         <tags>stretch</tags>

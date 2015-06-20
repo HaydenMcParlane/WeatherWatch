@@ -1,12 +1,5 @@
 $(document).ready(function(){		
 	$('#get_weather_button').click(fetchTemperature);
-//	$('#get_weather_button').bind('click', function() {
-//	      $.getJSON(BASE_URL + "temperature/" + $("#city").val() + "/" + $('#state').val(), 
-//	    		  function(data) {
-//	        $("#temperature_display").text(data.temperature);
-//	      });
-//	      return false;
-//	 });
 });
 
 var BASE_URL = "http://127.0.0.1:5000/api/";
