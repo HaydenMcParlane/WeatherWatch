@@ -2,12 +2,23 @@
 -- START DISKCACHE
 C:\1-dev\1-proj\1-ver-con\git-hub\WeatherWatch\.metadata\.plugins\org.eclipse.core.resources\.projects\WeatherWatch\com.python.pydev.analysis\v1_indexcache
 .v1_indexcache
+weatherwatch.main.__init__|0|C:\1-dev\1-proj\1-ver-con\git-hub\WeatherWatch\WeatherWatch\weatherwatch\main\__init__.py
+weatherwatch.__init__|0|C:\1-dev\1-proj\1-ver-con\git-hub\WeatherWatch\WeatherWatch\weatherwatch\__init__.py
+weatherwatch.main.gweather|0|C:\1-dev\1-proj\1-ver-con\git-hub\WeatherWatch\WeatherWatch\weatherwatch\main\gweather.py
+weatherwatch.main.Server|0|C:\1-dev\1-proj\1-ver-con\git-hub\WeatherWatch\WeatherWatch\weatherwatch\main\Server.py
 -- END DISKCACHE
 -- START DICTIONARY
-0
+2
+2=weatherwatch.main.gweather
+1=weatherwatch.main.Server
 -- END DICTIONARY
 -- START TREE 1
-0
+5
+app|1|app!11@
+get|3|getTemperatureColor!18@getTemperature!18@getTemp!10@
+hel|2|helloName!10@hello!10@
+ind|1|index!10@
+mai|1|main!18@
 -- END TREE
 -- START TREE 2
 0
