@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>WeatherTrack</title>
+		<meta name="Viewport" content="width=device-width, initial-scale=1.0">
+		
+		<!-- CDNs -->
+		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" >
+		<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js" ></script>
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.js"></script>
+		
+		<!-- Customer Scrips -->
+		<script type="text/javascript" src="../static/home_controller.js"></script>
+	</head>
+	<body>			
+		<nav class="navbar navbar-default">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<a class="navbar-brand" href="">WeatherTrack</a>
+				</div>
+				<div>
+					<ul class="nav navbar-nav navbar-right">
+						<li class="active"><a href="#">Home</a></li>
+						<li><a href="{{ url_for('viewData') }}">View Data</a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>					
+		<div class="row">
+			<div class="col-lg-offset-1 col-md-offset-1 col-sm-offset-1">
+				<form class="form form-inline" role="form">
+					<div class="form-group">
+						<input id="city" name="city" type="text" class="form-control" placeholder="City">											
+					</div>
+					<div class="form-group">
+						<input id="state" name="state" type="text" class="form-control" placeholder="State" >
+					</div>
+					<a id="get_weather_button" class="btn btn-default">Get Weather</a>
+				</form>
+			</div>			
+		</div>
+		<div class="row">
+			<div class="col-lg-offset-1 col-md-offset-1 col-sm-offset-1">
+				<h1 id="temperature_display" style="color: #a8a8a8;"></h1>
+			</div>
+		</div>
+	</body>
+</html>
