@@ -41,8 +41,8 @@ def getTemp(city, state):
     temp = getTemperature(city, state)
     date_time = datetime.datetime.now()            
     timeseries_data = ('{ city:"%s", state:"%s", temperature:%s, date-time:"%s" }' % (city, state, temp, date_time))    
-    tsApi = timeseries_api.TimeSeriesApi()
-    jsonResult = tsApi.insert(timeseries_data)
+#     tsApi = timeseries_api.TimeSeriesApi()
+#     jsonResult = tsApi.insert(timeseries_data)
     response = make_response(jsonify({"temperature": temp}))
     response.headers['Access-Control-Allow-Origin'] = "*"
     response.headers['Content-Type'] = "application/json"    

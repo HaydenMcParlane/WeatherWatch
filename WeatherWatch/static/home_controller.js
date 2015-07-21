@@ -2,8 +2,8 @@ $(document).ready(function(){
 	$('#get_weather_button').click(fetchTemperature);
 });
 
-var BASE_URL = "http://weathertrack.mybluemix.net/api";
-//var BASE_URL = "http://localhost:8000/api/";
+//var BASE_URL = "http://weathertrack.mybluemix.net/api";
+var BASE_URL = "http://localhost:8000/api";
 
 function fetchTemperature(){
 	var city = $('#city').val();
